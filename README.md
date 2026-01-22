@@ -1,4 +1,9 @@
-Tampilan lalu lintas dengan html dan css
+# Traffic Light
+Membuat traffic light - practice dom
+
+## Tampilan lampu lalu lintas
+![alt text](traffic-light.png)
+
 Interaksi lalu lintas:
 - awali dengan lampu merah menyala
 - setelah 3 detik matikan merah dan nyalakan kuning
